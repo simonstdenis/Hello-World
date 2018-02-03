@@ -1,0 +1,9 @@
+﻿<ProjectState>
+  <Version>1.0</Version>
+  <FileID>c15e8a01-6d50-47b7-a29e-029df061b09c</FileID>
+  <OpenFiles>
+  	<File>Test-Module.ps1</File>
+	<File>Hello-World.psd1</File>
+    <File>Hello-World.psm1</File>
+  </OpenFiles>
+</ProjectState>
